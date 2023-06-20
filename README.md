@@ -1,19 +1,11 @@
-<h1 align="center">Hi 👋, I'm Saloni Singh</h1>
+<h1 align="center">Hey,<img alt="pikacho" width="50" height="50" src="https://media.tenor.com/0WkmuOC_W00AAAAj/waving-pikachu.gif">I'm Saloni Singh</h1>
 <h3 align="center">I'm web developer</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/0f2df9c6430300192232520a10bc3f09066cee3c6f1205da8490ac2b1d69d9e5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saloni1216&label=Profile%20views&color=0e75b6&style=flat" alt="saloni1216" /> </p>
-
-<p align="left"> <a href="https://twitter.com/https://twitter.com/salonising26639" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/salonising26639?logo=twitter&style=for-the-badge"  /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saloni1216&label=Profile%20views&color=0e75b6&style=flat" alt="saloni1216" /> </p
 
 <p>. 🌱 I’m currently learning Full Stack Development Bootcamp(Udemy)<strong> // </strong>Crash Course For Python</p>
-
-<p>. 👨‍💻 All of my projects are available at<a href="//github.com/saloni1216]https://github.com/saloni1216"></a></p>
-
 <p>. 💬 Ask me about **HTML||CCS||JAVASCRIPT</p>
-
-<p>. 📫 How to reach me<a href="//www.linkedin.com/in/saloni-singh-0936a420a/"></a></p>
-
 <p>.📄 Know about my experiences <a href="https://drive.google.com/file/d/1H5y8XtpNLFwOrkZ6mKV_e-xwLMe9gyXx/view?usp=drivesdk"></a></p>
 
 <h3 align="left">Connect with me:</h3>

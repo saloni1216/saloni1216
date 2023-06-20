@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saloni1216&label=Profile%20views&color=0e75b6&style=flat" alt="saloni1216" /> </p
 
-<p>. 🌱 I’m currently learning Full Stack Development Bootcamp(Udemy)<strong> // </strong>Crash Course For Python</p>
+<p>. 🌱 I’m currently learning Full Stack Development Bootcamp(Udemy)// Crash     Course For Python</p>
 <p>.📫 How to reach me **https://www.linkedin.com/in/saloni-singh-0936a420a/**</p>
 <p>.💬 Ask me about **HTML, CCS, JAVASCRIPT**</p>
 <p>.📄 Know about my experiences (https://drive.google.com/file/d/1H5y8XtpNLFwOrkZ6mKV_e-xwLMe9gyXx/view?usp=drivesdk)</p>

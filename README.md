@@ -28,7 +28,7 @@
     <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="40" height="38"/></a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-2038874-1720087.png" width="40" height="40"/></a>  
      <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="35" height="32"/></a></p>
-     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saloni1216&show_icons=true&locale=en&layout=compact" alt="saloni1216" /></p>
+     <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=payalthummar&show_icons=true&locale=en&layout=compact" alt="payalthummar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saloni1216&show_icons=true&locale=en" alt="saloni1216" /></p>
 

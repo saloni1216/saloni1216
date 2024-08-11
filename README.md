@@ -1,11 +1,11 @@
 ![logo](https://hgs.cx/wp-content/uploads/2023/03/blog-banner-ChatGPT-SM-warrior.webp)
-<h1 align="center">Hey,<img alt="pikacho" width="50" height="50" src="https://media.tenor.com/0WkmuOC_W00AAAAj/waving-pikachu.gif">I'm Saloni Singh</h1>
-<h3 align="center">I'm a Web Developer living in Bareilly, India </h3>
+<h1 align="center">Hey,<img alt="pikacho" width="50" height="50" src="https://media.tenor.com/0WkmuOC_W00AAAAj/waving-pikachu.gif">Hey ! I'm Saloni Singh</h1>
+<h3 align="center">I'm a Software Developer living in Bareilly, India </h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/0f2df9c6430300192232520a10bc3f09066cee3c6f1205da8490ac2b1d69d9e5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saloni1216&label=Profile%20views&color=0e75b6&style=flat" alt="saloni1216" /> </p
 
-<p>. 🌱 I’m currently learning Full Stack Development Bootcamp(Udemy)// Crash     Course For Python</p>
+<p>. 🌱 I’m currently learning Full Stack Development</p>
 <p>.📫 How to reach me https://www.linkedin.com/in/saloni-singh-0936a420a/</p>
 <p>.💬 Ask me about HTML, CCS, JAVASCRIPT</p>
 <p>.📄 Know about my experiences https://drive.google.com/file/d/1H5y8XtpNLFwOrkZ6mKV_e-xwLMe9gyXx/view?usp=drivesdk</p>

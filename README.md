@@ -1,5 +1,5 @@
 ![logo](https://hgs.cx/wp-content/uploads/2023/03/blog-banner-ChatGPT-SM-warrior.webp)
-<h1 align="center">Hi,<img alt="pikacho" width="50" height="50" src="https://media.tenor.com/0WkmuOC_W00AAAAj/waving-pikachu.gif"> 👋,I'm Saloni Singh</h1>
+<h1 align="center"><img alt="pikacho" width="50" height="50" src="https://media.tenor.com/0WkmuOC_W00AAAAj/waving-pikachu.gif"> 👋,I'm Saloni Singh</h1>
 <h3 align="center">I'm a Software Developer living in Bareilly, India </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saloni1216&label=Profile%20views&color=0e75b6&style=flat" alt="saloni1216" /> </p

@@ -1,13 +1,13 @@
 ![logo](https://hgs.cx/wp-content/uploads/2023/03/blog-banner-ChatGPT-SM-warrior.webp)
 <h1 align="center">Hi<img alt="pikacho" width="50" height="50" src="https://media.tenor.com/0WkmuOC_W00AAAAj/waving-pikachu.gif">,I'm Saloni Singh</h1>
-<h3 align="center">I'm a Software Developer living in Bareilly, India </h3>
+<h3 align="center">I'm a Software Testing Engineer, India </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saloni1216&label=Profile%20views&color=0e75b6&style=flat" alt="saloni1216" /> </p
 
-<p>. 🌱 I’m currently learning Full Stack Development</p>
+<p>. 🌱 I’m currently learning Automation Testing</p>
 <p>.📫 How to reach me https://www.linkedin.com/in/saloni-singh-0936a420a/</p>
-<p>.💬 Ask me about HTML, CSS, JAVASCRIPT,PYTHON </p>
-<p>.📄 Know about my experiences https://drive.google.com/file/d/1H5y8XtpNLFwOrkZ6mKV_e-xwLMe9gyXx/view?usp=drivesdk</p>
+<p>.💬 Ask me about HTML, CSS, JAVASCRIPT,PYTHON, JAVA, PLAYWRIGHT, API TESTING, POSTMAN, JIRA</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/salonising26639" target="blank"><img align="center" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-twitter-social-media-round-icon-png-image_6315985.png" height="30" width="30" border-radius: 10px;/></a>
